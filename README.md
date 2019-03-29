@@ -1,6 +1,7 @@
 # Manifold Learning: Mathematical Methods for Non-linear Dimensionality Reduction
 ### *With Examples and Applications in Python*
 
+![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
 
 ------
 
