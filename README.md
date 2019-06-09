@@ -27,7 +27,7 @@ Contents
     - Locally linear approximations and connection to Principal Component Analysis
     - 
     
-* **Chapter 4: Laplacian Eigenmaps/Spectral Embedding**
+* [**Chapter 4: Laplacian Eigenmaps/Spectral Embedding**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Laplacian-Eigenmaps.ipynb)
     
     
 
