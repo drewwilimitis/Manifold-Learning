@@ -1,4 +1,4 @@
-# Manifold Learning: Introduction with 4 Algorithms
+# Manifold Learning: Introduction with Foundational Algorithms
 ### *Mathematical Theory with Examples and Applications in Python*
 
 ![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
@@ -24,10 +24,12 @@ Contents
     - Implementation details and application 
 
 * [**Chapter 3: Local Linear Embedding**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/mmm/Locally_Linear_Embedding.ipynb)
-    - Locally linear approximations and connection to Principal Component Analysis
-    - 
+    - Locally linear reconstructions and optimization problems
+    - Example applications with image data
     
 * [**Chapter 4: Laplacian Eigenmaps/Spectral Embedding**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Laplacian-Eigenmaps.ipynb)
+    - From the general to the discrete Laplacian operators
+    - Visualizing spectral embedding with the networkx library
     
     
 
