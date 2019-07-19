@@ -21,7 +21,7 @@ Contents
     
 * [**Chapter 2: ISOMAP**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Isomap.ipynb)
     - Geodesic distances and the isometric mapping algorithm
-    - Implementation details and application 
+    - Implementation details and applications with facial images and coil-100 object images 
 
 * [**Chapter 3: Local Linear Embedding**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Locally_Linear_Embedding.ipynb)
     - Locally linear reconstructions and optimization problems
@@ -30,6 +30,7 @@ Contents
 * [**Chapter 4: Laplacian Eigenmaps/Spectral Embedding**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Laplacian-Eigenmaps.ipynb)
     - From the general to the discrete Laplacian operators
     - Visualizing spectral embedding with the networkx library
+    - Spectral embedding with NLTK and the Brown text corpus
     
     
 
